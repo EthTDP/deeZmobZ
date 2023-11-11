@@ -1,0 +1,14 @@
+{
+  "item.dm.zombie_ingot": "Zombie Ingot",
+  "item.dm.spider_ingot": "Spider Ingot",
+  "item.dm.skeleton_ingot": "Skeleton Ingot",
+  "item.dm.creeper_ingot": "Creeper Ingot",
+  "item.dm.raw_creeper": "Raw Creeper",
+  "item.dm.raw_zombie": "Raw Zombie",
+  "item.dm.raw_spider": "Raw Spider",
+  "item.dm.raw_skeleton": "Raw Skeleton",
+  "item.dm.lighter": "Lighter",
+  "item.dm.cutter": "Mob Cutter",
+  "block.dm.mob_grinder": "Mob Grinder",
+  "itemGroup.deezmobz": "deeZmobZ"
+}

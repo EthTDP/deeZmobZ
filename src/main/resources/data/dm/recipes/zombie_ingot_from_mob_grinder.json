@@ -1,0 +1,18 @@
+{
+  "type": "dm:mobgrinder",
+  "ingredients": [
+    {
+      "item": "dm:lighter"
+    },
+    {
+      "item": "dm:cutter"
+    },
+    {
+      "item": "dm:raw_zombie"
+    }
+  ],
+  "output": {
+    "count": 1,
+    "item": "dm:zombie_ingot"
+  }
+}
